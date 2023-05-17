@@ -1,3 +1,3 @@
 # MyPublicCode
-Playground projects
+Playground projects  
 Used **only** for personal automation script
